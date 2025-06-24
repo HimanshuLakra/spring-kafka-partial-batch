@@ -1,0 +1,1 @@
+# spring-kafka-partial-batch
