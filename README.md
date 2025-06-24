@@ -1,6 +1,8 @@
 # spring-kafka-partial-batch
 
-Issue Logs
+1. update your kafka connection configs in KafkaConsumer.java class.
+
+2. Issue Logs
 
 {"timestamp":"2025-06-24T17:45:10.135477Z","logger_name":"c.s.e.t.BatchManualModeListener","thread_name":"test_listener-0-C-1","level":"INFO","serviceArchPath":"NA","process":"NA","message":"Message Received with BatchId: 50f0b8f4-53bb-4ba4-a14d-6c091649e35c, Offset: 77296746, Partition: 23"}
 {"timestamp":"2025-06-24T17:45:10.13577Z","logger_name":"c.s.e.t.BatchManualModeListener","thread_name":"test_listener-0-C-1","level":"INFO","serviceArchPath":"NA","process":"NA","message":"Message Received with BatchId: 50f0b8f4-53bb-4ba4-a14d-6c091649e35c, Offset: 77296747, Partition: 23"}
